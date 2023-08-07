@@ -1,4 +1,10 @@
 
+<div id="header" align="center">
+  <img src="https://github.com/betonn/betonn/blob/main/profile_pic.png" width="100"/>
+</div>
+
+
+
 - 👋 Hi, I’m @betonn
 - 👀 I’m interested in web and mobil development with react,react-native and I recently started to work with flutter. 
 - 🌱 I’m currently learning Flutter, dotnet net core, React, React-native, typeScript, rest Api's, json and postgreSQl 
